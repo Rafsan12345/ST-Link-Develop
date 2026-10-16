@@ -1,1 +1,2 @@
 # ST-Link-Develop
+https://slemi.info/2018/08/14/making-your-own-st-link-v2/
